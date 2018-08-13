@@ -1,0 +1,14 @@
+git log
+
+
+git checkout - checkout privious commits
+		uniqe hash code to identifify commits
+		we  can go privous commits to find what are the changes done 
+
+git diff - tio identify what are the differents
+
+
+git branch - to check thebranch
+
+git checkout -b <branch_name> - create a new branch
+git branch <branch_name>
