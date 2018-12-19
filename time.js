@@ -1,1 +1,1 @@
-console.log("Date :-"+Date());
+console.log("Date is :- "+Date());
