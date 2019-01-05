@@ -1,1 +1,1 @@
-console.log("I am clock");
+console.log("I Am clock");
