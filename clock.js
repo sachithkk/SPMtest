@@ -1,5 +1,5 @@
 function display(){
-    if(1===1){
+    if(1==1){
         alert();
     }
     console.log(12+"AAAAA"+34);
